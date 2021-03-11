@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="start">Start</string>
+    <string name="welcome_to_trivia">Welcome to Trivia</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="who_is_the_best_cricketer_in_the_world">Who is the best cricketer in the world?</string>
+    <string name="sachin_tendulkar">Sachin Tendulkar</string>
+    <string name="virat_kolli">Virat Kolli</string>
+    <string name="adam_gilchirst">Adam Gilchirst</string>
+    <string name="jacques_kallis">Jacques Kallis</string>
+    <string name="what_are_the_colors_in_the_indian_national_flag">What are the colors in the Indian national flag?</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="green">Green</string>
+    <string name="here_are_the_answers_selected">Here are the answers selected:</string>
+    <string name="hello">Hello</string>
+    <string name="Answer"><b> Answer: </b></string>
+    <string name="answers"><b> Answers:</b></string>
+    <string name="summary">SUMMARY</string>
+    <string name="no_data_to_display">No data to display</string>
+</resources>
